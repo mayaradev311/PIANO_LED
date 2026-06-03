@@ -31,4 +31,4 @@ O projeto funciona como um mini teclado musical eletrônico, permitindo interaç
 
 O projeto “Piano LED” é uma forma prática e divertida de aprender programação e eletrônica utilizando Arduino. Além de estimular a criatividade, ele ajuda a desenvolver conhecimentos importantes sobre circuitos, lógica e interação entre hardware e software.
 
-![imagem]()
+![imagem](https://github.com/mayaradev311/PIANO_LED/blob/main/piano%20led.png)
